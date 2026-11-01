@@ -1,2 +1,3 @@
 # Revoked SurgeBIM license IDs (one per line)
 47ac4ae0a0d44d1a9e030d1c9def2f72  # 2026-10-29 TurboBIM / DucVT
+99e38c0046944682a19466a2cae8069f  # 2026-11-01 My company / tranduc.precast8QVUX
