@@ -3,3 +3,4 @@
 99e38c0046944682a19466a2cae8069f  # 2026-11-01 My company / tranduc.precast8QVUX
 0499b283d34b46c38bf11f234ab7067e  # 2026-11-01 My company / DUCVT
 7c5caff415724693a7e0de21dca7f461  # 2026-11-03 My company / tranduc.precast8QVUX
+a8f7780f13694d949cb31b3835e0a756  # 2026-11-03 My company / DUCVT
